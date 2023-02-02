@@ -30,6 +30,7 @@ GEM
       rouge (>= 1.7, < 4)
       safe_yaml (~> 1.0)
     jekyll-feed (0.11.0)
+    ruby (~> 2.3)
       jekyll (~> 3.3)
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.5.2)
