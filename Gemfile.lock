@@ -73,7 +73,7 @@ DEPENDENCIES
   jekyll-seo-tag
   jekyll-sitemap
 
-RUBY VERSION
+RUBYVERSION
    ruby 2.6.3p62
 
 BUNDLED WITH
